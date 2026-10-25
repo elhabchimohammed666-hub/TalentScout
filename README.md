@@ -116,17 +116,6 @@ npm run install:all
 ```
 *(Or navigate to `server/` and `client/` individually and run `npm install`)*
 
-### Step 2: Environment Configuration
-Create or review `server/.env`:
-```env
-PORT=5000
-MONGODB_URI=mongodb://127.0.0.1:27017/talentscout
-JWT_SECRET=talentscout_super_secret_jwt_key_2026_secure
-NODE_ENV=development
-
-# Optional: Google Gemini API key for live LLM generation
-GEMINI_API_KEY=
-```
 
 ### Step 3: Seed Demonstration Data
 Populate MongoDB with the benchmark dataset specified in Section 6 (Page 10 of the PDF):
