@@ -1,4 +1,4 @@
-# TalentScout ⚽
+# TalentScout 
 ### Football Academy Management & AI Player Development Platform
 **MERN Stack Edition (MongoDB, Express.js, React.js, Node.js)**
 
